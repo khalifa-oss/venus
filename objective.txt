@@ -1,0 +1,1 @@
+the first objecive is how to create a git project
